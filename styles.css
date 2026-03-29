@@ -1,0 +1,12 @@
+/* styles.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-feature-settings: "ss03";
+}
+
+h1, h2, h3 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
